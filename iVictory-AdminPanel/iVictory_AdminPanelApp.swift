@@ -1,9 +1,3 @@
-//
-//  iVictory_AdminPanelApp.swift
-//  iVictory-AdminPanel
-//
-//  Created by Jedi on 21.07.2024.
-//
 
 import SwiftUI
 
